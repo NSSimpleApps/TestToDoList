@@ -28,6 +28,7 @@
 		6C83F7E62B0B84B95FD563EC /* Pods-TestToDoList.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestToDoList.release.xcconfig"; path = "Target Support Files/Pods-TestToDoList/Pods-TestToDoList.release.xcconfig"; sourceTree = "<group>"; };
 		9A9D44E7193467057FA04C0D /* Pods-TestToDoList.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestToDoList.debug.xcconfig"; path = "Target Support Files/Pods-TestToDoList/Pods-TestToDoList.debug.xcconfig"; sourceTree = "<group>"; };
 		CE7BA9C02DE7FE8C00D4F246 /* TestToDoListTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestToDoListTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE7BAA2F2DE8232400D4F246 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CED90E292DE4CED600A6C750 /* TestToDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestToDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB6B8A3F37418BDF303FF44E /* Pods_TestToDoList.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestToDoList.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -127,6 +128,7 @@
 		CED90E202DE4CED600A6C750 = {
 			isa = PBXGroup;
 			children = (
+				CE7BAA2F2DE8232400D4F246 /* README.md */,
 				CED90E2B2DE4CED600A6C750 /* TestToDoList */,
 				CE7BA9C12DE7FE8C00D4F246 /* TestToDoListTests */,
 				CED90E2A2DE4CED600A6C750 /* Products */,
